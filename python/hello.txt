@@ -1,0 +1,5 @@
+Hello
+This is my
+Note taking app
+I am now
+appending to the file
